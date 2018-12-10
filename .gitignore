@@ -36,8 +36,6 @@ nosetests.xml
 .pydevproject
 
 venv
-
-microblog.log*
 www_test
 evact.sh
 temp
