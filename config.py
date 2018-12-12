@@ -7,7 +7,7 @@ class Config(object):
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
 
-posts = Post.query.all()
-for p in posts:
-    db.session.delete(p)
-db.session.commit()
+# posts = Post.query.all()
+# for p in posts:
+#     db.session.delete(p)
+# db.session.commit()
