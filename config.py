@@ -11,3 +11,7 @@ class Config(object):
 # for p in posts:
 #     db.session.delete(p)
 # db.session.commit()
+
+
+#  pip install gunicorn pymysql
+
